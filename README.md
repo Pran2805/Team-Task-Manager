@@ -13,7 +13,7 @@ A **Team Task Manager** built using the **PERN stack (PostgreSQL, Express.js, Re
 
 ## 📌 Tech Stack
 - **Frontend:** React, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python (FastAPI/Django)
+- **Backend:** Node.js, Express.js, Python (Django)
 - **Database:** PostgreSQL
 - **Authentication:** JWT (JSON Web Token)
 - **Other Tools:** WebSockets for real-time updates
@@ -21,11 +21,10 @@ A **Team Task Manager** built using the **PERN stack (PostgreSQL, Express.js, Re
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/team-task-manager.git
-   cd team-task-manager
+   git clone https://github.com/Pran2805/Team-Task-Manager.git
 
 ## Our Team
-    **Pranav Shinde** - https://github.com/Pran2805
-    **Suvesh Pagam** - https://github.com/suvesh0707
-    **Kirti Mistri** - https://github.com/kirtimistri
-    **Siddesh Sonvane** - https://github.com/Splayer1273
+   - **Pranav Shinde** - https://github.com/Pran2805
+   - **Suvesh Pagam** - https://github.com/suvesh0707
+   - **Kirti Mistri** - https://github.com/kirtimistri
+   - **Siddesh Sonvane** - https://github.com/Splayer1273

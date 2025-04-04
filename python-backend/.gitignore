@@ -21,7 +21,7 @@ config/settings/local.py
 # === Migrations (Keep __init__.py) ===
 **/migrations/*.py
 !**/migrations/__init__.py
-
+*migrations/*
 # === Node Modules (if frontend is inside this repo) ===
 node_modules/
 npm-debug.log
